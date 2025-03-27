@@ -1,0 +1,17 @@
+{
+  "actual": "4.2.0",
+  "nodes": [
+    "eu-fra-01.rldv1.dev",
+    "eu-waw-01.rldv1.dev",
+    "ru-msk-01.rldv1.dev",
+  ],
+  "github": true,
+  "shield_android_enabled": true,
+  "shield_ios_enabled": false,
+  "shield": {
+    "v": "1.0",
+    "xto9qhbq95d9diln": "a69yslsntgji4n2l07fr6kpxz73hcfhrjvdi8napo2ni5vogk4zyc384ngwich6g",
+    "bmezd329278gqz0o": "f68lflbo",
+    "w9vnlolkb0y44pfj": "9pet0pab9rffni3j3tf7ncra5dm8jhk211x0cwfm28twr1dn",
+  }
+}
